@@ -7,3 +7,84 @@ http://157.230.119.43:4545/ind2020/sonytvhd/chunks.m3u8?nimblesessionid=4691064&
 http://157.230.119.43:4545/ind2020/sonymaxhd/chunks.m3u8?nimblesessionid=4691747&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMTo1OTozOSBQTSZoYXNoX3ZhbHVlPWg5d2xHTzM1cGg0QmZjRFgxNEduWXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",colorshd
 http://157.230.119.43:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4692325&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMjowMTowOCBQTSZoYXNoX3ZhbHVlPWxDY1dnWTVxYTV4SEttZUNadk84Z0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonytvhd
+http://157.230.119.43:4545/ind2020/sonytvhd/chunks.m3u8?nimblesessionid=4717313&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzowMzo1NyBQTSZoYXNoX3ZhbHVlPSs2ZytmbWdIVzY5UmlFYzZnVHhBeUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonymaxhd
+http://157.230.119.43:4545/ind2020/sonymaxhd/chunks.m3u8?nimblesessionid=4720793&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoxMzoxNSBQTSZoYXNoX3ZhbHVlPUhWTUg0TGMxQXAxN3lrL3pyRnpPUnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonypixhd
+http://157.230.119.43:4545/ind2020/sonypixhd/chunks.m3u8?nimblesessionid=4721306&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoxNDoyNyBQTSZoYXNoX3ZhbHVlPTdpNzJpSTFCRHp2TEZrRkozV3EvTEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",starmovies
+http://157.230.119.43:4545/ind2020/starmovies/chunks.m3u8?nimblesessionid=4721767&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoxNTozOSBQTSZoYXNoX3ZhbHVlPVZhNzk4RW9CZXZEWGtONzBWaVpaUUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",starplushd
+http://157.230.119.43:4545/ind2020/starplushd/chunks.m3u8?nimblesessionid=4722815&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoxNzo1OCBQTSZoYXNoX3ZhbHVlPXpSeTRvYUdwY0JHRC9panZrZkRzRFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",colorshd
+http://157.230.119.43:4545/ind2020/colorshd/chunks.m3u8?nimblesessionid=4723451&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoxOTozMSBQTSZoYXNoX3ZhbHVlPU9pV0hJUkJkWGpURCtUTlo1UWFIVmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonymix
+http://157.230.119.43:4545/ind2020/sonymix/chunks.m3u8?nimblesessionid=4723833&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyMDoyNSBQTSZoYXNoX3ZhbHVlPWljZW85REtyU05oeVROVU1OMXFuTkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",stargoldhd
+http://157.230.119.43:4545/ind2020/stargoldhd/chunks.m3u8?nimblesessionid=4724257&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyMToyNiBQTSZoYXNoX3ZhbHVlPWZXRWRMSVR4YXBEblZNdU1ndjh3emc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",zeetvhd
+http://157.230.119.43:4545/ind2020/zeetvhd/chunks.m3u8?nimblesessionid=4724674&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyMjoyMiBQTSZoYXNoX3ZhbHVlPXJ0cXFXdUkvbHd2VnoxU0xNS0cwMUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",zeecinemahd
+http://157.230.119.43:4545/ind2020/zeecinemahd/chunks.m3u8?nimblesessionid=4725526&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyNDoxMyBQTSZoYXNoX3ZhbHVlPUdjVFY1UjlHQWo4T25ZQ3BQcHF2TXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",mtvbeatshd
+http://157.230.119.43:4545/ind2020/mtvbeatshd/chunks.m3u8?nimblesessionid=4726275&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyNTo0OSBQTSZoYXNoX3ZhbHVlPTZTcVp4Ukd1YXlwbHo0OXFsU1YrOVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",andprive
+http://157.230.119.43:4545/ind2020/andprive/chunks.m3u8?nimblesessionid=4726686&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyNjo1MiBQTSZoYXNoX3ZhbHVlPTF2WmFGbktlbXJ4WFdTRERESzdlMVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",foodfood
+http://157.230.119.43:4545/ind2020/foodfood/chunks.m3u8?nimblesessionid=4727198&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyODowOCBQTSZoYXNoX3ZhbHVlPVA0cjdBRkhFL2pyRkI4NlVOMWhqTmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",9xo
+http://157.230.119.43:4545/ind2020/9xo/chunks.m3u8?nimblesessionid=4727587&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyOTowNiBQTSZoYXNoX3ZhbHVlPThMTk1BWE1pLzdHVE04MG1JMDBjcUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonywah
+http://157.230.119.43:4545/ind2020/sonywah/chunks.m3u8?nimblesessionid=4727839&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzoyOTo0NSBQTSZoYXNoX3ZhbHVlPVBqWk8zb3hJUW53eWhXYVI3WFhiOVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",stargoldselect
+http://157.230.119.43:4545/ind2020/stargoldselect/chunks.m3u8?nimblesessionid=4728140&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMDoyNyBQTSZoYXNoX3ZhbHVlPVZFUlExWUVSdWJMMkZibklLSXhmNWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonybbcearthin
+http://157.230.119.43:4545/ind2020/sonybbcearthin/chunks.m3u8?nimblesessionid=4728371&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMDo1OCBQTSZoYXNoX3ZhbHVlPURMQXpwdG9SYmo3Y1dQR3BTS2pWVXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",colorsinfinity
+http://157.230.119.43:4545/ind2020/colorsinfinity/chunks.m3u8?nimblesessionid=4728694&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMTo0NCBQTSZoYXNoX3ZhbHVlPUNWTXNKZ1A3WVExbUJCWDNPZFMrOUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",fyitv18
+http://157.230.119.43:4545/ind2020/fyitv18/chunks.m3u8?nimblesessionid=4728941&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMjoyMSBQTSZoYXNoX3ZhbHVlPUFQTjIyYVZUeTJXT256ZGJxM21TRUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",saharaone
+http://157.230.119.43:4545/ind2020/saharaone/chunks.m3u8?nimblesessionid=4729126&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMjo0OSBQTSZoYXNoX3ZhbHVlPTc0WTF1QmZLalc3WDdJTDhKNmF0aWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",tlchindi
+http://157.230.119.43:4545/ind2020/tlchindi/chunks.m3u8?nimblesessionid=4729370&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMzoyMyBQTSZoYXNoX3ZhbHVlPXN1NG1KQ3FHWUVJcWE1U1pVa3lPNGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",mtvhdplus
+http://157.230.119.43:4545/ind2020/mtvhdplus/chunks.m3u8?nimblesessionid=4729584&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozMzo1MSBQTSZoYXNoX3ZhbHVlPTNhMG9TcVh3Zk9LaHBkTGVpL0FaOFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",9xmusic
+http://157.230.119.43:4545/ind2020/9xmusic/chunks.m3u8?nimblesessionid=4729958&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozNDozOSBQTSZoYXNoX3ZhbHVlPWs4dHRnRXBmOWl6TUp1RFl2U20zNkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",mtvin
+http://157.230.119.43:4545/ind2020/mtvin/chunks.m3u8?nimblesessionid=4730411&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozNTo0MyBQTSZoYXNoX3ZhbHVlPWZWWTRPZEh3TjNzQTRYNEhRZzFFTXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",andpichd
+http://157.230.119.43:4545/ind2020/andpichd/chunks.m3u8?nimblesessionid=4730769&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozNjozNyBQTSZoYXNoX3ZhbHVlPVB3WEZjazM2SDI0eHhINVlIbDdVSWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",andtvhd
+http://157.230.119.43:4545/ind2020/andtvhd/chunks.m3u8?nimblesessionid=4731040&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozNzoxNSBQTSZoYXNoX3ZhbHVlPTBVYXRZUlRBRStOdDAveWcwVGxBMWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",livingfoodz
+http://157.230.119.43:4545/ind2020/livingfoodz/chunks.m3u8?nimblesessionid=4731647&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzozODo0NCBQTSZoYXNoX3ZhbHVlPTJOSk1Qa0Z5K1ljUm5QYVE1NXczZGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",zeebangla
+http://185.149.90.23:7071/bangla2020/zeebangla/chunks.m3u8?nimblesessionid=1925868&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0MDo1MSBQTSZoYXNoX3ZhbHVlPXFidjJDdHJ5dFQwbFZlYmRFQXNpWXc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",channeli
+http://185.149.90.23:7071/bangla2020/channeli/chunks.m3u8?nimblesessionid=1925915&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0MToyMyBQTSZoYXNoX3ZhbHVlPUZIMmhJSHp2RitpYWJmODRhU2k2Wmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",maasaranga
+http://185.149.90.23:7071/bangla2020/maasaranga/chunks.m3u8?nimblesessionid=1925977&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0MjoxNSBQTSZoYXNoX3ZhbHVlPW82WjFnUXp6VzdwL2ZZZk50d2xjOWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",jamunatv
+http://185.149.90.23:7071/bangla2020/jamunatv/chunks.m3u8?nimblesessionid=1926099&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0MzoyOCBQTSZoYXNoX3ZhbHVlPVR5R2p3cFZzTjgxakR3dktXSTRUVlE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",zeebanglahd
+http://185.149.90.23:7071/bangla2020/zeebanglahd/chunks.m3u8?nimblesessionid=1926228&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0NDo0NiBQTSZoYXNoX3ZhbHVlPTNYcE5xMTZua3dMblhQVHJJK2kvT1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",colorsbanglahd
+http://185.149.90.23:7071/bangla2020/colorsbanglahd/chunks.m3u8?nimblesessionid=1926290&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0NToxNCBQTSZoYXNoX3ZhbHVlPWtDL2MydlhYSnlPTjNsVVRHNVk5dmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",gtv
+http://185.149.90.23:7071/bangla2020/gtv/chunks.m3u8?nimblesessionid=1926338&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0NTo1MCBQTSZoYXNoX3ZhbHVlPUhhWTJ2b1hyb2R0WXBQR0U0RjBLUGc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",gaanbangla
+http://185.149.90.23:7071/bangla2020/gaanbangla/chunks.m3u8?nimblesessionid=1926369&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0NjoxOCBQTSZoYXNoX3ZhbHVlPU9YWk56WEZ1VlhWOHozODQ5Q1AzbWc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",starjalsa
+http://185.149.90.23:7071/bangla2020/starjalsa/chunks.m3u8?nimblesessionid=1926409&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0Njo1MyBQTSZoYXNoX3ZhbHVlPVhHeHJpcVdMaUZ3YmFtOHBFOWkrYkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",ekattoortv
+http://185.149.90.23:7071/bangla2020/ekatoortv/chunks.m3u8?nimblesessionid=1926445&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0NzozMCBQTSZoYXNoX3ZhbHVlPStVMjU3UjVKVFZycld0V3pJMnl3ZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",channe9
+http://185.149.90.23:7071/bangla2020/channel9/chunks.m3u8?nimblesessionid=1926485&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0ODowOCBQTSZoYXNoX3ZhbHVlPVJEVkNWaXRUdTMwMUd6NWh2WW1YQ1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",sonyaath
+http://185.149.90.23:7071/bangla2020/sonyaath/chunks.m3u8?nimblesessionid=1926532&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0ODo0NCBQTSZoYXNoX3ZhbHVlPWNtL044Y1loOUpadVlkanY4aHFhWkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 etv
+http://185.149.90.23:7071/bangla2020/etv/chunks.m3u8?nimblesessionid=1926561&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMzo0OToxOCBQTSZoYXNoX3ZhbHVlPUllZklZaFAwMGh5bTNkWWdBVGpzd3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
