@@ -1,4 +1,6 @@
 #EXTM3U
+
+http://10.16.100.241:80/exthls/GAZITV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",starworld
 http://157.230.119.43:4545/ind2020/starworld/chunks.m3u8?nimblesessionid=4689719&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjAgMTo1NDowNyBQTSZoYXNoX3ZhbHVlPW9oR0FZTXQ1NE9wWCsreXJhTkJlVnc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://saalaitv.com/logo/Akaram.png" group-title="",SONY_HD
